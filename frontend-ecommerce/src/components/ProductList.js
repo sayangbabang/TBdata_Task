@@ -27,6 +27,7 @@ function ProductList() {
             <p>Harga: Rp {item.harga.toLocaleString()}</p>
           </div>
         ))}
+        
       </div>
     </div>
   );

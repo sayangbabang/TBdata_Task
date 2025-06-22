@@ -71,6 +71,7 @@ Kemudian temen-temen buat design database, module (monolith/microservices) berda
 
 Design Database nya seperti Ini : 
 ![design-db](design_database/design_db.png)
+    DETAIL SEMUA TABLE NYA ADA DI FILE design_database
 
 dan module yang saya pilih tentunya monolith karena kesederhanaan dalam pengembangan, pengujian, dan penerapan, terutama untuk proyek skala kecil hingga menengah dengan kebutuhan kompleksitas rendah. Keuntungan lain termasuk kemudahan pemahaman kode, debugging yang lebih cepat, dan biaya yang lebih rendah pada tahap awal pengembangan. 
 
